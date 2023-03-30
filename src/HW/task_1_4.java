@@ -41,6 +41,5 @@ public class task_1_4 {
         int secondNumber = scanNumber();
         int result = getResult(operations, firstNumber, secondNumber);
         System.out.printf("%d %s %d = %d", firstNumber, operations, secondNumber, result);
-
     }
 }
