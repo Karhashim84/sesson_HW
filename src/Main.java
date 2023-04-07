@@ -2,6 +2,7 @@ import HW.task_1_1;
 import HW.task_1_2;
 import HW.task_1_3;
 import HW.task_1_4;
+import HW3.task1;
 
 public class Main {
     public static void main(String[] args) {
